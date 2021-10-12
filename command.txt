@@ -1,0 +1,7 @@
+El comando cp en GNU/Linux sirve para copiar un archivo o carpeta trabajando en la línea de comandos. 
+
+La forma más sencilla y habitual de utilizar el comando cp es de la siguiente:
+
+cp fichero1 fichero2
+
+Esto lo que hace es copiar el archivo1 en archivo2, también podemos especificar una ruta distinta donde queremos que hubique el fichero2. Si este fichero no existían antes de ejecutar el comando, se crea el fichero. Si ya existía, entonces se sobreescribe.
